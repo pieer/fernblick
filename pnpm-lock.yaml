@@ -20,6 +20,7 @@ specifiers:
   vite-plugin-windicss: ^1.3.0
   vue: ^3.2.6
   vue-demi: ^0.11.3
+  vue-gtag: ^2.0.1
   vue-router: ^4.0.11
   vue3-youtube: ^0.1.6
 
@@ -28,7 +29,6 @@ dependencies:
   vue: 3.2.6
   vue-demi: 0.11.3_vue@3.2.6
   vue-router: 4.0.11_vue@3.2.6
-  vue3-youtube: 0.1.6
 
 devDependencies:
   '@antfu/eslint-config': 0.7.0_eslint@7.32.0+typescript@4.4.2
@@ -47,6 +47,8 @@ devDependencies:
   vite: 2.5.1
   vite-plugin-pages: 0.17.5_0af502564fb53278e4f42e4690bab263
   vite-plugin-windicss: 1.3.0_typescript@4.4.2+vite@2.5.1
+  vue-gtag: 2.0.1_vue@3.2.6
+  vue3-youtube: 0.1.6
 
 packages:
 
@@ -458,7 +460,7 @@ packages:
 
   /@types/youtube/0.0.39:
     resolution: {integrity: sha512-naVjyTZT/CoNwEQW3+mf9E/x6sgB7QIPbRDtVlPUpHlmuQTk+j6gQBy0T5CRkV8oC0GYQjMgfr3VdueTSVLTjw==}
-    dev: false
+    dev: true
 
   /@typescript-eslint/eslint-plugin/4.29.1_fbdb47d0f80be665f7c749749c0a112d:
     resolution: {integrity: sha512-AHqIU+SqZZgBEiWOrtN94ldR3ZUABV5dUG94j8Nms9rQnHFc8fvDOue/58K4CFz6r8OtDDc35Pw9NQPWo0Ayrw==}
@@ -711,7 +713,6 @@ packages:
     resolution: {integrity: sha512-8vIDD2wpCnYisNNZjmcIj+Rixn0uhZNY3G1vzlgdVdLygeRSuFjkmnZk6WwvGzUWpKfnG0e/NUySM3mVi59hAA==}
     dependencies:
       '@vue/shared': 3.2.6
-    dev: false
 
   /@vue/ref-transform/3.2.6:
     resolution: {integrity: sha512-ie39+Y4nbirDLvH+WEq6Eo/l3n3mFATayqR+kEMSphrtMW6Uh/eEMx1Gk2Jnf82zmj3VLRq7dnmPx72JLcBYkQ==}
@@ -728,7 +729,6 @@ packages:
     dependencies:
       '@vue/reactivity': 3.2.6
       '@vue/shared': 3.2.6
-    dev: false
 
   /@vue/runtime-dom/3.2.6:
     resolution: {integrity: sha512-fq33urnP0BNCGm2O3KCzkJlKIHI80C94HJ4qDZbjsTtxyOn5IHqwKSqXVN3RQvO6epcQH+sWS+JNwcNDPzoasg==}
@@ -736,7 +736,6 @@ packages:
       '@vue/runtime-core': 3.2.6
       '@vue/shared': 3.2.6
       csstype: 2.6.17
-    dev: false
 
   /@vue/shared/3.2.6:
     resolution: {integrity: sha512-uwX0Qs2e6kdF+WmxwuxJxOnKs/wEkMArtYpHSm7W+VY/23Tl8syMRyjnzEeXrNCAP0/8HZxEGkHJsjPEDNRuHw==}
@@ -1082,7 +1081,7 @@ packages:
   /core-js/3.17.2:
     resolution: {integrity: sha512-XkbXqhcXeMHPRk2ItS+zQYliAMilea2euoMsnpRRdDad6b2VY6CQQcwz1K8AnWesfw4p165RzY0bTnr3UrbYiA==}
     requiresBuild: true
-    dev: false
+    dev: true
 
   /cross-env/7.0.3:
     resolution: {integrity: sha512-+/HKd6EgcQCJGh2PSjZuUitQBQynKor4wrFbRg4DtAgS1aWO+gU52xpH7M9ScGgXSYmAVS9bIJ8EzuaGw0oNAw==}
@@ -1109,7 +1108,6 @@ packages:
 
   /csstype/2.6.17:
     resolution: {integrity: sha512-u1wmTI1jJGzCJzWndZo8mk4wnPTZd1eOIYTYvuEyOQGfmDl3TrabCCfKnOC86FZwW/9djqTl933UF/cS425i9A==}
-    dev: false
 
   /debug/2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}
@@ -1794,7 +1792,7 @@ packages:
 
   /get-youtube-id/1.0.1:
     resolution: {integrity: sha512-5yidLzoLXbtw82a/Wb7LrajkGn29BM6JuLWeHyNfzOGp1weGyW4+7eMz6cP23+etqj27VlOFtq8fFFDMLq/FXQ==}
-    dev: false
+    dev: true
 
   /glob-parent/5.1.2:
     resolution: {integrity: sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==}
@@ -3404,6 +3402,14 @@ packages:
       - supports-color
     dev: true
 
+  /vue-gtag/2.0.1_vue@3.2.6:
+    resolution: {integrity: sha512-aM4A58FVL0wV2ptYi+xzAjeg+pQVRyUcfBc5UkXAwQrR4t3WBhor50Izp2I+3Oo7+l+vWJ7u78DGcNzReb8S/A==}
+    peerDependencies:
+      vue: ^3.0.0
+    dependencies:
+      vue: 3.2.6
+    dev: true
+
   /vue-router/4.0.11_vue@3.2.6:
     resolution: {integrity: sha512-sha6I8fx9HWtvTrFZfxZkiQQBpqSeT+UCwauYjkdOQYRvwsGwimlQQE2ayqUwuuXGzquFpCPoXzYKWlzL4OuXg==}
     peerDependencies:
@@ -3419,7 +3425,6 @@ packages:
       '@vue/compiler-dom': 3.2.6
       '@vue/runtime-dom': 3.2.6
       '@vue/shared': 3.2.6
-    dev: false
 
   /vue3-youtube/0.1.6:
     resolution: {integrity: sha512-dlgrZWwWei1KPXAcLqT76wGxpXMXvqx1Ig+HSLESGBRG0nEIvI0jL97yqFQShEqo8t2I6jLZImTdc6m/J4BduQ==}
@@ -3428,7 +3433,7 @@ packages:
       core-js: 3.17.2
       get-youtube-id: 1.0.1
       vue: 3.2.6
-    dev: false
+    dev: true
 
   /webpack-virtual-modules/0.4.3:
     resolution: {integrity: sha512-5NUqC2JquIL2pBAAo/VfBP6KuGkHIZQXW/lNKupLPfhViwh8wNsu0BObtl09yuKZszeEUfbXz8xhrHvSG16Nqw==}

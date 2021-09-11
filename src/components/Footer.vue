@@ -3,14 +3,9 @@
 </script>
 
 <template>
-  <nav class="text-xl mt-6">
-    <!-- <button class="icon-btn mx-2 !outline-none" @click="toggleDark">
-      <carbon-moon v-if="isDark" />
-      <carbon-sun v-else />
-    </button> -->
-
-    <!-- <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/antfu/vitesse-lite" target="_blank" title="GitHub">
-      <carbon-logo-github />
-    </a> -->
-  </nav>
+  <footer class="absolute z-2 bottom-0 right-0 mx-4 my-2">
+    <a class="p-3 btn bg-black flex items-center" rel="noreferrer" href="mailto:gordonfernblick@gmail.com" target="_blank">
+      Contact us. <carbon-email class="ml-2" />
+    </a>
+  </footer>
 </template>

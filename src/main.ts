@@ -2,6 +2,7 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import routes from 'virtual:generated-pages'
+import VueGtag from 'vue-gtag'
 import App from './App.vue'
 
 // windicss layers
@@ -16,4 +17,7 @@ const router = createRouter({
   routes,
 })
 app.use(router)
+app.use(VueGtag, {
+  config: { id: 'G-QQLEW9ZR18' },
+})
 app.mount('#app')

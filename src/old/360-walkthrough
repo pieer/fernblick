@@ -1,0 +1,633 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- Mobile Specific Metas & Favicons -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><link rel="shortcut icon" href="https://www.fernblick.co.th/wp-content/uploads/favicon-fernblick-16x16-purple.png"><link rel="apple-touch-icon" href="https://www.fernblick.co.th/wp-content/uploads/favicon-fernblick-57x57-purple.png"><link rel="apple-touch-icon" sizes="120x120" href="https://www.fernblick.co.th/wp-content/uploads/favicon-fernblick-120x120-purple.png"><link rel="apple-touch-icon" sizes="76x76" href="https://www.fernblick.co.th/wp-content/uploads/favicon-fernblick-76x76-purple.png"><link rel="apple-touch-icon" sizes="152x152" href="https://www.fernblick.co.th/wp-content/uploads/favicon-fernblick-152x152-purple.png"><!-- WordPress Stuff -->
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic', 'Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://www.fernblick.co.th/wp-content/themes/unicon/framework/admin/ReduxCore/assets/js/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        <meta name='robots' content='max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>360 Walkthrough demo - Fernblick Luxury Villa</title>
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.fernblick.co.th/360-walkthrough-demo/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="360 Walkthrough demo - Fernblick Luxury Villa" />
+	<meta property="og:url" content="https://www.fernblick.co.th/360-walkthrough-demo/" />
+	<meta property="og:site_name" content="Fernblick Luxury Villa" />
+	<meta property="article:modified_time" content="2020-05-15T12:02:49+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.fernblick.co.th/#website","url":"https://www.fernblick.co.th/","name":"Fernblick Luxury Villa","description":"Ko Phangan, Thailand","potentialAction":[{"@type":"SearchAction","target":"https://www.fernblick.co.th/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.fernblick.co.th/360-walkthrough-demo/#webpage","url":"https://www.fernblick.co.th/360-walkthrough-demo/","name":"360 Walkthrough demo - Fernblick Luxury Villa","isPartOf":{"@id":"https://www.fernblick.co.th/#website"},"datePublished":"2020-05-15T12:00:11+00:00","dateModified":"2020-05-15T12:02:49+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.fernblick.co.th/360-walkthrough-demo/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fernblick Luxury Villa &raquo; Feed" href="https://www.fernblick.co.th/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fernblick Luxury Villa &raquo; Comments Feed" href="https://www.fernblick.co.th/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.fernblick.co.th\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='momentopress-css'  href='https://www.fernblick.co.th/wp-content/plugins/cmyee-momentopress/css/momentopress.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.fernblick.co.th/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-style-css'  href='https://www.fernblick.co.th/wp-content/plugins/blog-designer-pack/assets/css/slick.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='bdp-public-style-css'  href='https://www.fernblick.co.th/wp-content/plugins/blog-designer-pack/assets/css/bdp-public.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.fernblick.co.th/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mphb-kbwood-datepick-css-css'  href='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/vendors/kbwood/datepick/jquery.datepick.css?ver=3.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mphb-kbwood-datepick-theme-css'  href='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/assets/css/datepick-themes/mphb-datepicker-light-blue.css?ver=3.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mphb-css'  href='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/assets/css/mphb.min.css?ver=3.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mphbs-styles-css'  href='https://www.fernblick.co.th/wp-content/plugins/mphb-styles/assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.fernblick.co.th/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wp-airbnb-review-slider-public_template1-css'  href='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/css/wprev-public_template1.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpairbnb_w3-css'  href='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/css/wpairbnb_w3.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='unslider-css'  href='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/css/wprs_unslider.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='unslider-dots-css'  href='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/css/wprs_unslider-dots.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.fernblick.co.th/wp-content/themes/unicon/style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://www.fernblick.co.th/wp-content/themes/unicon-child/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.fernblick.co.th/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='https://www.fernblick.co.th/wp-content/themes/unicon/framework/css/shortcodes.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://www.fernblick.co.th/wp-content/themes/unicon/framework/css/responsive.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='https://www.fernblick.co.th/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.css?ver=2.19.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.7.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://www.fernblick.co.th/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.5' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-565-css'  href='https://www.fernblick.co.th/wp-content/uploads/elementor/css/post-565.css?ver=1624378088' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://www.fernblick.co.th/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.fernblick.co.th/wp-content/uploads/elementor/css/global.css?ver=1624378088' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-607-css'  href='https://www.fernblick.co.th/wp-content/uploads/elementor/css/post-607.css?ver=1626045838' type='text/css' media='all' />
+<link rel='stylesheet' id='ecs-styles-css'  href='https://www.fernblick.co.th/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.2' id='revmin-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/js/wprev-public.js?ver=2.4' id='wp-airbnb-review-slider_plublic-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/wp-airbnb-review-slider/public/js/wprs-unslider-min.js?ver=2.4' id='wp-airbnb-review-slider_unslider-min-js'></script>
+<script type='text/javascript' id='ecs_ajax_load-js-extra'>
+/* <![CDATA[ */
+var ecs_ajax_params = {"ajaxurl":"https:\/\/www.fernblick.co.th\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"360-walkthrough-demo\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"360-walkthrough-demo\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"tax_query\":[{\"taxonomy\":\"language\",\"field\":\"term_taxonomy_id\",\"terms\":116,\"operator\":\"IN\"}],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.1' id='ecs_ajax_load-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.1' id='ecs-script-js'></script>
+<link rel="https://api.w.org/" href="https://www.fernblick.co.th/wp-json/" /><link rel="alternate" type="application/json" href="https://www.fernblick.co.th/wp-json/wp/v2/pages/607" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fernblick.co.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fernblick.co.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel='shortlink' href='https://www.fernblick.co.th/?p=607' />
+<link rel="alternate" type="application/json+oembed" href="https://www.fernblick.co.th/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fernblick.co.th%2F360-walkthrough-demo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.fernblick.co.th/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fernblick.co.th%2F360-walkthrough-demo%2F&#038;format=xml" />
+<style type="text/css">
+body{ font: 400 13px Open Sans, Arial, Helvetica, sans-serif; color: #777777; line-height: 1.9;} .wrapall, .boxed-layout{ background-color: #ffffff; } body.page-template-page-blank-php{ background: #ffffff !important; } h1, .title-h1{ font: 28px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } h2{ font: 24px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } h3{ font: 20px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } h4{ font: 16px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } h5{ font: 16px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } h6{ font: 16px Open Sans, Arial, Helvetica, sans-serif; color: #333333; } .title{ font-family: 'Open Sans', Arial, Helvetica, sans-serif; } h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; color: inherit; } h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, a:hover h1, a:hover h2, a:hover h3, a:hover h4, a:hover h5, a:hover h6 { color: #333333; } a{ color: #1cbac8; } a:hover{ color: #333333; } input[type='text'], input[type='password'], input[type='email'], input[type='tel'], input[type='date'], input[type='number'], textarea, select { font-family: Open Sans, Arial, Helvetica, sans-serif; font-size: 13px; } #sidebar .widget h3{ font: 14px Montserrat, Arial, Helvetica, sans-serif; color: #444444; } .container .twelve.alt.sidebar-right, .container .twelve.alt.sidebar-left, #sidebar.sidebar-right #sidebar-widgets, #sidebar.sidebar-left #sidebar-widgets{ border-color: #efefef;} #topbar{ background: #f5f5f5; color: #777777; } #topbar a{ color: #999999; } #topbar a:hover{ color: #333333; } @media only screen and (max-width: 767px) { #topbar .topbar-col1{ background: #f5f5f5; } } /* Navigation */ #navigation > ul > li > a{ font: 14px Montserrat, Arial, Helvetica, sans-serif; color: #ffffff; } #navigation > ul > li:hover > a, #navigation > ul > li > a:hover { color: #1cbac8; } #navigation li.current-menu-item > a:hover, #navigation li.current-page-ancestor > a:hover, #navigation li.current-menu-ancestor > a:hover, #navigation li.current-menu-parent > a:hover, #navigation li.current_page_ancestor > a:hover, #navigation > ul > li.sfHover > a { color: #1cbac8; } #navigation li.current-menu-item > a, #navigation li.current-page-ancestor > a, #navigation li.current-menu-ancestor > a, #navigation li.current-menu-parent > a, #navigation li.current_page_ancestor > a { color: #1cbac8; } #navigation ul li:hover{ border-color: #1cbac8; } #navigation li.current-menu-item, #navigation li.current-page-ancestor, #navigation li.current-menu-ancestor, #navigation li.current-menu-parent, #navigation li.current_page_ancestor{ border-color: #1cbac8; } #navigation .sub-menu{ background: #0d1908; } #navigation .sub-menu li a{ font: 13px Open Sans, Arial, Helvetica, sans-serif; color: #ffffff; } #navigation .sub-menu li a:hover{ color: #ffffff; } #navigation .sub-menu li.current_page_item > a, #navigation .sub-menu li.current_page_item > a:hover, #navigation .sub-menu li.current-menu-item > a, #navigation .sub-menu li.current-menu-item > a:hover, #navigation .sub-menu li.current-page-ancestor > a, #navigation .sub-menu li.current-page-ancestor > a:hover, #navigation .sub-menu li.current-menu-ancestor > a, #navigation .sub-menu li.current-menu-ancestor > a:hover, #navigation .sub-menu li.current-menu-parent > a, #navigation .sub-menu li.current-menu-parent > a:hover, #navigation .sub-menu li.current_page_ancestor > a, #navigation .sub-menu li.current_page_ancestor > a:hover{ color: #ffffff; } #navigation .sub-menu li a, #navigation .sub-menu ul li a{ border-color: #333333; } #navigation > ul > li.megamenu > ul.sub-menu{ background: #0d1908; border-color: #1cbac8; } #navigation > ul > li.megamenu > ul > li { border-right-color: #333333 !important; } #navigation > ul > li.megamenu ul li a{ color:#ffffff; } #navigation > ul > li.megamenu > ul > li > a { color:#ffffff; } #navigation > ul > li.megamenu > ul ul li a:hover, #header #navigation > ul > li.megamenu > ul ul li.current-menu-item a { color: #ffffff !important; background-color: #333333 !important; } /* Header General */ #search-btn, #shopping-btn, #close-search-btn { color: #bbbbbb; } #search-btn:hover, #shopping-btn:hover, #close-search-btn:hover { color: #999999; } #slogan{ font: 400 20px Open Sans, Arial, Helvetica, sans-serif; color: #777777; margin-top: 30px; } /* Mobile Header */ #mobile-navigation{ background: #0d1908; } #mobile-navigation ul li a{ font: 13px Open Sans, Arial, Helvetica, sans-serif; color: #ffffff; border-bottom-color: #333333 !important; } #mobile-navigation ul li a:hover, #mobile-navigation ul li a:hover [class^='fa-'], #mobile-navigation li.open > a, #mobile-navigation ul li.current-menu-item > a, #mobile-navigation ul li.current-menu-ancestor > a{ color: #ffffff; } body #mobile-navigation li.open > a [class^='fa-']{ color: #ffffff; } #mobile-navigation form, #mobile-navigation form input{ background: #444444; color: #cccccc; } #mobile-navigation form:before{ color: #cccccc; } #mobile-header{ background: #0a0000; height: 70px; } #mobile-navigation-btn, #mobile-cart-btn, #mobile-shopping-btn{ color: #bbbbbb; line-height: 70px; } #mobile-navigation-btn:hover, #mobile-cart-btn:hover, #mobile-shopping-btn:hover { color: #999999; } #mobile-header .logo{ margin-top: 15px; } /* Header V1 */ #header.header-v1 { height: 70px; background: #0a0000; } .header-v1 .logo{ margin-top: 15px; } .header-v1 #navigation > ul > li{ height: 70px; padding-top: 35px; } .header-v1 #navigation .sub-menu{ top: 70px; } .header-v1 .header-icons-divider{ line-height: 70px; background: #efefef; } #header.header-v1 .widget_shopping_cart{ top: 70px; } .header-v1 #search-btn, .header-v1 #close-search-btn, .header-v1 #shopping-btn{ line-height: 70px; } .header-v1 #search-top, .header-v1 #search-top input{ height: 70px; } .header-v1 #search-top input{ color: #666666; font-family: Open Sans, Arial, Helvetica, sans-serif; } /* Header V3 */ #header.header-v3 { background: #0a0000; } .header-v3 .navigation-wrap{ background: #0a0000; border-top: 1px solid #efefef; } .header-v3 .logo { margin-top: 30px; margin-bottom: 30px; } /* Header V4 */ #header.header-v4 { background: #0a0000; } .header-v4 .navigation-wrap{ background: #0a0000; border-top: 1px solid #efefef; } .header-v4 .logo { margin-top: 30px; margin-bottom: 30px; } /* Transparent Header */ #transparentimage{ padding: 70px 0 0 0; } .header-is-transparent #mobile-navigation{ top: 70px; } /* Stuck */ .stuck{ background: #0a0000; } /* Titlebars */ .titlebar h1, .title-h1{ font: 22px Open Sans, Arial, Helvetica, sans-serif; color: #777777; } #fulltitle{ background: #f9f9f9; border-bottom: 1px solid #efefef; } #breadcrumbs{ margin-top: 6px; } #breadcrumbs, #breadcrumbs a{ font: 13px Open Sans, Arial, Helvetica, sans-serif; color: #aaaaaa; } #breadcrumbs a:hover{ color: #666666; } #fullimagecenter h1, #transparentimage h1, #fullimagecenter .title-h1, #transparentimage .title-h1{ font: 42px Montserrat, Arial, Helvetica, sans-serif; color: #ffffff; text-transform: uppercase; letter-spacing: 1px; text-align: center; } /* Footer */ #footer .widget h3{ font: 13px Montserrat, Arial, Helvetica, sans-serif; color: #ffffff; } #footer{ color: #ffffff; border-top: 4px none #1cbac8; } #footer{ background-color: #0a0000; } #footer a, #footer .widget ul li:after { color: #ffffff; } #footer a:hover, #footer .widget ul li:hover:after { color: #1cbac8; } #footer .widget ul li{ border-bottom-color: #333333; } /* Copyright */ #copyright{ background: #110301; color: #ffffff; } #copyright a { color: #1cbac8; } #copyright a:hover { color: #cccccc; } /* Color Accent */ .highlight{color:#1cbac8 !important;} ::selection{ background: #1cbac8; } ::-moz-selection { background: #1cbac8; } #shopping-btn span{background:#1cbac8;} .blog-page .post h1 a:hover,.blog-page .post h2 a:hover{color:#1cbac8;} .entry-image .entry-overlay{background:#1cbac8;} .entry-quote a:hover{background:#1cbac8;} .entry-link a:hover{background:#1cbac8;} .blog-single .entry-tags a:hover{color:#1cbac8;} .sharebox ul li a:hover{color:#1cbac8;} .commentlist li.bypostauthor .comment-text{border-color: #1cbac8;} #pagination .current a{background:#1cbac8;} #filters ul li a:hover{color:#1cbac8;} #filters ul li a.active{color:#1cbac8;} #back-to-top a:hover{background-color:#1cbac8;} #sidebar .widget ul li a:hover{color:#1cbac8;} #sidebar .widget ul li:hover:after{color:#1cbac8;} .widget_tag_cloud a:hover,.widget_product_tag_cloud a:hover{background:#1cbac8;border-color:#1cbac8;} .widget_portfolio .portfolio-widget-item .portfolio-overlay{background:#1cbac8;} #sidebar .widget_nav_menu ul li a:hover{color:#1cbac8;} #footer .widget_tag_cloud a:hover,#footer .widget_product_tag_cloud a:hover{background:#1cbac8;border-color:#1cbac8;} /* Shortcodes */ .box.style-2{border-top-color:#1cbac8;} .box.style-4{border-color:#1cbac8;} .box.style-6{background:#1cbac8;} a.button,input[type=submit],button,.minti_button{background:#1cbac8;border-color:#1cbac8;} a.button.color-2{color:#1cbac8;border-color:#1cbac8;} a.button.color-3{background:#1cbac8;border-color:#1cbac8;} a.button.color-9{color:#1cbac8;} a.button.color-6:hover{background:#1cbac8;border-color:#1cbac8;} a.button.color-7:hover{background:#1cbac8;border-color:#1cbac8;} .counter-number{color:#1cbac8;} .divider-title.align-center:after, .divider-title.align-left:after { background-color:#1cbac8 } .divider5{border-bottom-color:#1cbac8;} .dropcap.dropcap-circle{background-color:#1cbac8;} .dropcap.dropcap-box{background-color:#1cbac8;} .dropcap.dropcap-color{color:#1cbac8;} .toggle .toggle-title.active, .color-light .toggle .toggle-title.active{ background:#1cbac8; border-color: #1cbac8;} .iconbox-style-1.icon-color-accent i.boxicon,.iconbox-style-2.icon-color-accent i.boxicon,.iconbox-style-3.icon-color-accent i.boxicon,.iconbox-style-8.icon-color-accent i.boxicon,.iconbox-style-9.icon-color-accent i.boxicon{color:#1cbac8!important;} .iconbox-style-4.icon-color-accent i.boxicon,.iconbox-style-5.icon-color-accent i.boxicon,.iconbox-style-6.icon-color-accent i.boxicon,.iconbox-style-7.icon-color-accent i.boxicon,.flip .icon-color-accent.card .back{background:#1cbac8;} .latest-blog .blog-item .blog-overlay{background:#1cbac8;} .latest-blog .blog-item .blog-pic i{color:#1cbac8;} .latest-blog .blog-item h4 a:hover{color:#1cbac8;} .progressbar .progress-percentage{background:#1cbac8;} .wpb_widgetised_column .widget ul li a:hover{color:#1cbac8;} .wpb_widgetised_column .widget ul li:hover:after{color:#1cbac8;} .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon{background-color:#1cbac8;} .wpb_accordion .wpb_accordion_wrapper .ui-state-active.wpb_accordion_header a{color:#1cbac8;} .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover,.wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover .ui-state-default .ui-icon{color:#1cbac8;} .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header:hover .ui-icon{background-color:#1cbac8!important;} .wpb_content_element.wpb_tabs .wpb_tabs_nav li.ui-tabs-active{border-bottom-color:#1cbac8;} .portfolio-item h4 a:hover{ color: #1cbac8; } .portfolio-filters ul li a:hover { color: #1cbac8; } .portfolio-filters ul li a.active { color: #1cbac8; } .portfolio-overlay-icon .portfolio-overlay{ background: #1cbac8; } .portfolio-overlay-icon i{ color: #1cbac8; } .portfolio-overlay-effect .portfolio-overlay{ background: #1cbac8; } .portfolio-overlay-name .portfolio-overlay{ background: #1cbac8; } .portfolio-detail-attributes ul li a:hover{ color: #1cbac8; } a.catimage:hover .catimage-text{ background: #1cbac8; } /* WooCommerce */ .products li h3{font: 400 13px Open Sans, Arial, Helvetica, sans-serif; color: #777777;} .woocommerce .button.checkout-button{background:#1cbac8;border-color:#1cbac8;} .woocommerce .products .onsale{background:#1cbac8;} .product .onsale{background:#1cbac8;} button.single_add_to_cart_button:hover{background:#1cbac8;} .woocommerce-tabs > ul > li.active a{color:#1cbac8;border-bottom-color:#1cbac8;} p.stars a:hover{background:#1cbac8;} p.stars a.active,p.stars a.active:after{background:#1cbac8;} .product_list_widget a{color:#1cbac8;} .woocommerce .widget_layered_nav li.chosen a{color:#1cbac8!important;} .woocommerce .widget_product_categories > ul > li.current-cat > a{color:#1cbac8!important;} .woocommerce .widget_product_categories > ul > li.current-cat:after{color:#1cbac8!important;} .woocommerce-message{ background: #1cbac8; } .bbp-topics-front ul.super-sticky .bbp-topic-title:before, .bbp-topics ul.super-sticky .bbp-topic-title:before, .bbp-topics ul.sticky .bbp-topic-title:before, .bbp-forum-content ul.sticky .bbp-topic-title:before{color: #1cbac8!important; } #subscription-toggle a:hover{ background: #1cbac8; } .bbp-pagination-links span.current{ background: #1cbac8; } div.wpcf7-mail-sent-ok,div.wpcf7-mail-sent-ng,div.wpcf7-spam-blocked,div.wpcf7-validation-errors{ background: #1cbac8; } .wpcf7-not-valid{ border-color: #1cbac8 !important;} .products .button.add_to_cart_button{ color: #1cbac8!important; } .minti_list.color-accent li:before{ color: #1cbac8!important; } .blogslider_text .post-categories li a{ background-color: #1cbac8; } .minti_zooming_slider .flex-control-nav li .minti_zooming_slider_ghost { background-color: #1cbac8; } .minti_carousel.pagination_numbers .owl-dots .owl-dot.active{ background-color: #1cbac8; } .wpb_content_element.wpb_tour .wpb_tabs_nav li.ui-tabs-active, .color-light .wpb_content_element.wpb_tour .wpb_tabs_nav li.ui-tabs-active{ background-color: #1cbac8; } .masonry_icon i{ color: #1cbac8; } .woocommerce-MyAccount-navigation-link.is-active a{ color: #1cbac8;} /* Special Font */ .font-special, .button, .counter-title, h6, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a, .pricing-plan .pricing-plan-head h3, a.catimage, .divider-title, button, input[type='submit'], input[type='reset'], input[type='button'], .vc_pie_chart h4, .page-404 h3, .minti_masonrygrid_item h4{ font-family: 'Montserrat', Arial, Helvetica, sans-serif; /*letter-spacing: 0px; font-weight: ;*/} .ui-helper-reset{ line-height: 1.9; } /* User CSS from Theme Options */ h1, .title-h1, h2, h3, h4, h5, h6 {margin-top: 40px;} .post-time {position:absolute; visibility:hidden;} .blog-page .post {margin:0 0 20px 0; padding: 0 0 10px 0;} .blog-page .post h2 {margin: 0 0 5px 0;} body .wrapall { background-color: #f8f8f8; } div#categories-3 { margin-bottom: 30px; font-size: 14px; background-color: #fff; padding: 30px 25px; } #sidebar-widgets { padding-bottom: 0px; padding-left: 0px!important; border-left: 1px solid transparent!important; } #content { padding-top: 0px; padding-bottom: 40px; } div#content { border: none; } .content-area-list { margin-bottom: 30px; font-size: 14px; background-color: #fff; padding: 30px 25px; } #sidebar .widget h3 { font-family: Open Sans, Arial, Helvetica, sans-serif!important; font-weight: 600!important; font-size: 22px; } #sidebar .widget > ul > li ul li { background: transparent; } p.wpairbnb_t1_P_3.wprev_preview_tcolor1_T1_widget { font-family: "Open Sans", Sans-serif; color: #000; line-height: 24px; } .content-area-list ul li { padding: 7px 0px; border-bottom: 1px dotted #dcdcdc; font: 14px Open Sans, Arial, Helvetica, sans-serif; } .container .four.columns { width: 300px; } @media only screen and (max-width: 959px) { #header, .sticky-wrapper{display:none;} #mobile-header{display:inherit} }
+</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.1.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+		<style type="text/css" id="wp-custom-css">
+			rs-slide {
+	    margin-top: -15px! important;
+}
+rs-slide:before {
+	    margin-top: -15px! important;
+}
+#viewer_logo {
+	display:none!important;
+}
+ul#menu-footer li a {
+    text-transform: uppercase;
+}
+.homesinglimg img {
+    box-shadow: 0 0 5px #373636;
+}
+div#nav_menu-3 {
+    margin-bottom: 20px !important;
+}
+html {
+	overflow-x:hidden;
+}
+.lrpaddsec {
+    padding: 0 10%;
+}
+.hmsec2{
+	margin-bottom: 0; 
+}
+.hmsec2 h1 {
+    margin-top: 0;
+}
+footer #media_image-2 .size-full {
+    width: 160px !important;
+}
+div#text-10 h3 {
+    text-transform: uppercase !important;
+    font-size: 15px !important;
+}
+.address_info {
+    margin-bottom: 10px;
+}
+.address_info i {
+    margin-right: 10px;
+}
+div#text-10 ul li {
+    border-bottom: unset !important;
+    padding: 0 !important;
+}
+div#text-10 ul li::after {
+    display: none;
+}
+li.addr::before {
+    font-family: "FontAwesome";
+    content: "\f041";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    font-size: 14px;
+}
+li.email::before {
+    font-family: "FontAwesome";
+    content: "\f2b6";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    font-size: 14px;
+}
+li.phone::before {
+    font-family: "FontAwesome";
+    content: "\f095";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    font-size: 14px;
+}
+li.phone, li.email {
+    margin-top: 10px;
+}
+.adr_detl{
+	clear: both !important;
+	margin-left: 25px; 
+}
+/*6-08*/
+
+.box1 .elementor-widget-wrap {
+    background: #fff;
+  padding:20px;
+}
+.list ul.elementor-icon-list-items li {
+    display: inline-block !important;
+}
+
+.name input
+{
+  margin:0 auto;
+  margin-bottom:10px;
+  width:100%;
+}
+.instruction a:hover
+{
+  color:#fff;
+}
+.wpcf7-form .wpcf7-submit {
+    background: #1cbac8 !important;
+}
+/*blog page */
+.page-id-1216 .site-wrapper.wrapall {
+    background: #fff !important;
+}
+.page-id-1216 .bdp-post-grid-content {
+    padding-bottom: 30px !important;
+}
+.post-section img {
+    padding: 30px;
+	  width:100%;
+}
+.post-section .bdp-post-margin-content {
+    padding: 6px 20px 20px 20px;
+}
+.page-id-1216 .bdp-post-meta {
+    margin: 0 0 0px 0;
+}
+.post-section .bdp-post-short-content {
+    margin-bottom: 10px;
+}
+.page-id-1216 .bdp-post-title a {
+    font-size: 18px;
+    font-weight: bold;
+	  word-break:break-word;
+}
+.post-section .bdp-post-margin-content {
+    padding: 5px 12px 10px 5px;
+	     word-break: break-all;
+}
+.post-section a.bdp-readmorebtn {
+    background: #1cbac8;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+.page-id-1216 .bdp-post-title {
+    margin: 0 0 10px 0 !important;
+}
+.post-section a.page-numbers {
+    background: #1cbac8;
+    border: 1px solid #1cbac8;
+}
+li.meta-category {
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none;
+}
+.single-post .entry-wrap {
+    background: white;
+    padding: 30px;
+    border: 20px solid #80808024;
+}
+.single-post p {
+    font-size: 15px;
+}
+.single-post li.meta-category {
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.single-post .entry-wrap {
+    background: #fff;
+    padding: 30px;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '743061369579404'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=743061369579404&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body data-rsssl=1 class="page-template-default page page-id-607 smooth-scroll wpb-js-composer js-comp-ver-6.0.5 vc_responsive elementor-default elementor-kit-565 elementor-page elementor-page-607">
+
+	<div class="site-wrapper wrapall">
+
+	
+<header id="header" class="header header-v1 header-v1-only clearfix  ">
+		
+	<div class="container">
+	
+		<div id="logo-navigation" class="sixteen columns">
+			
+			<div id="logo" class="logo">
+									<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/Fernblick19-logo-website-120px.png" alt="Fernblick Luxury Villa" class="logo_standard" /></a>
+					<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/logo-fernblick-200px-rev.png" alt="Fernblick Luxury Villa" class="logo_transparent" /></a>					<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/Fernblick19-logo-website-240px.png" width="120" height="50" alt="Fernblick Luxury Villa" class="logo_retina" /></a>					<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/logo-fernblick-400px-rev.png" width="200" height="47" alt="Fernblick Luxury Villa" class="logo_retina_transparent" /></a>							</div>
+
+			<div id="navigation" class="clearfix">			
+				<div class="header-icons">
+												
+								</div>	
+
+				<ul id="nav" class="menu"><li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://www.fernblick.co.th/koh-phangan/">Location</a></li>
+<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://www.fernblick.co.th/360-walkthrough/">360 Walkthrough</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.fernblick.co.th/photo-gallery/">See the Villa</a></li>
+<li id="menu-item-1414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1414"><a href="https://www.fernblick.co.th/island-stories/">Island Stories</a></li>
+<li id="menu-item-1663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1663"><a href="https://www.fernblick.co.th/koh-phangan-info/promotions/">Promotions</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://www.fernblick.co.th/features/">Features</a></li>
+<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://www.fernblick.co.th/contact-us/">Contact Us</a></li>
+<li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://www.fernblick.co.th/book-the-villa/">Book</a></li>
+<li id="menu-item-1960-fr" class="lang-item lang-item-157 lang-item-fr no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-fr"><a href="https://www.fernblick.co.th/fr/foyer/" hreflang="fr-FR" lang="fr-FR"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGzSURBVHjaYiyeepkBBv79+Zfnx/f379+fP38CyT9//jAyMiq5GP77wvDnJ8MfoAIGBoAAYgGqC7STApL///3/9++/pCTv////Qdz/QO4/IMna0vf/z+9/v379//37bUUTQACBNDD8Z/j87fffvyAVX79+/Q8GQDbQeKA9fM+e/Pv18/+vnwzCIkBLAAKQOAY5AIAwCEv4/4PddNUm3ji0QJyxW3rgzE0iLfqDGr2oYuu0l54AYvnz5x9Q6d+/QPQfyAQqAin9B3EOyG1A1UDj//36zfjr1y8GBoAAFI9BDgAwCMIw+P8Ho3GDO6XQ0l4MN8b2kUwYaLszqgKM/KHcDXwBxAJUD3TJ779A8h9Q5D8SAHoARP36+Rfo41+/mcA2AAQQy49ff0Cu//MPpAeI/0FdA1QNYYNVA/3wmwEYVgwMAAHE8uPHH5BqoD1//gJJLADoJKDS378Z//wFhhJAALF8A3rizz8uTmYg788fJkj4QOKREQyYxSWBhjEC/fcXZANAALF8+/anbcHlHz9+ffvx58uPX9KckkCn/gby/wLd8uvHjx96k+cD1UGiGQgAAgwA7q17ZpsMdUQAAAAASUVORK5CYII=" alt="Français" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li id="menu-item-1960-en" class="lang-item lang-item-116 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-en"><a href="https://www.fernblick.co.th/360-walkthrough-demo/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" alt="English" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li id="menu-item-1960-de" class="lang-item lang-item-152 lang-item-de no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-de"><a href="https://www.fernblick.co.th/de/home-3/" hreflang="de-DE" lang="de-DE"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGzSURBVHjaYvTxcWb4+53h3z8GZpZff/79+v3n/7/fDAz/GHAAgABi+f37e3FxOZD1Dwz+/v3z9y+E/AMFv3//+Qumfv9et241QACxMDExAVWfOHkJJAEW/gUEP0EQDn78+AHE/gFOQJUAAcQiy8Ag8O+fLFj1n1+/QDp+/gQioK7fP378+vkDqOH39x9A/RJ/gE5lAAhAYhzcAACCQBDkgRXRjP034R0IaDTZTFZn0DItot37S94KLOINerEcI7aKHAHE8v/3r/9//zIA1f36/R+o4tevf1ANYNVA9P07RD9IJQMDQACxADHD3z8Ig4GMHz+AqqHagKp//fwLVA0U//v7LwMDQACx/LZiYFD7/5/53/+///79BqK/EMZ/UPACSYa/v/8DyX9A0oTxx2EGgABi+a/H8F/m339BoCoQ+g8kgRaCQvgPJJiBYmAuw39hxn+uDAABxMLwi+E/0PusRkwMvxhBGoDkH4b/v/+D2EDyz///QB1/QLb8+sP0lQEggFh+vGXYM2/SP6A2Zoaf30Ex/J+PgekHwz9gQDAz/P0FYrAyMfz7wcDAzPDtFwNAgAEAd3SIyRitX1gAAAAASUVORK5CYII=" alt="Deutsch" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li id="menu-item-1960-es" class="lang-item lang-item-162 lang-item-es no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-es"><a href="https://www.fernblick.co.th/es/home-2/" hreflang="es-ES" lang="es-ES"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFnSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f0NIKPoFJH/9//ULyGaUlQXaABBALAx/Gf4zAt31F4i+ffj3/cN/XrFfzOx//v///f//LzACM/79ZmD8/e8TA0AAMYHdDVT958vXP38nMDB0s3x94/Tj5y+YahhiAKLfQKUAAcQEdtJfoDHMF2L+vPzDmFXLelf551tGFOOhev4A/QgQQExgHwAd8IdFT/Wz6j+GhlpmXSOW/2z///8Eq/sJ18Dw/zdQA0AAMQExxJjjdy9x2/76EfLz4MXdP/i+wsyGkkA3Aw3984cBIIAYfzIwMKel/bt3jwEaLNAwgZIQxp/fDH/+MqqovL14ESCAWICeZvr9h0FSEhSgwBgAygFDEMT+wwAhgQgc4kAEVAwQQIxfUSMSTxxDAECAAQAJWke8v4u1tAAAAABJRU5ErkJggg==" alt="Español" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+</ul>			</div>
+			
+		</div>
+		
+		
+			
+
+	</div>	
+	
+</header>
+
+<div id="mobile-header" class="mobile-header-v1">
+	<div class="container">
+		<div class="sixteen columns">
+			<div id="mobile-logo" class="logo">
+									<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/Fernblick19-logo-website-120px.png" alt="Fernblick Luxury Villa" class="logo_standard" /></a>
+					<a href="https://www.fernblick.co.th/"><img src="https://www.fernblick.co.th/wp-content/uploads/Fernblick19-logo-website-240px.png" width="120" height="50" alt="Fernblick Luxury Villa" class="logo_retina" /></a>							</div>
+			<a href="#" id="mobile-navigation-btn"><i class="fa fa-bars"></i></a>
+					</div>
+	</div>
+</div>
+
+<div id="mobile-navigation">
+	<div class="container">
+		<div class="sixteen columns">
+			<div class="menu-main-container"><ul id="mobile-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://www.fernblick.co.th/koh-phangan/">Location</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://www.fernblick.co.th/360-walkthrough/">360 Walkthrough</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.fernblick.co.th/photo-gallery/">See the Villa</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1414"><a href="https://www.fernblick.co.th/island-stories/">Island Stories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1663"><a href="https://www.fernblick.co.th/koh-phangan-info/promotions/">Promotions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://www.fernblick.co.th/features/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://www.fernblick.co.th/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://www.fernblick.co.th/book-the-villa/">Book</a></li>
+<li class="lang-item lang-item-157 lang-item-fr no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-fr"><a href="https://www.fernblick.co.th/fr/foyer/" hreflang="fr-FR" lang="fr-FR"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGzSURBVHjaYiyeepkBBv79+Zfnx/f379+fP38CyT9//jAyMiq5GP77wvDnJ8MfoAIGBoAAYgGqC7STApL///3/9++/pCTv////Qdz/QO4/IMna0vf/z+9/v379//37bUUTQACBNDD8Z/j87fffvyAVX79+/Q8GQDbQeKA9fM+e/Pv18/+vnwzCIkBLAAKQOAY5AIAwCEv4/4PddNUm3ji0QJyxW3rgzE0iLfqDGr2oYuu0l54AYvnz5x9Q6d+/QPQfyAQqAin9B3EOyG1A1UDj//36zfjr1y8GBoAAFI9BDgAwCMIw+P8Ho3GDO6XQ0l4MN8b2kUwYaLszqgKM/KHcDXwBxAJUD3TJ779A8h9Q5D8SAHoARP36+Rfo41+/mcA2AAQQy49ff0Cu//MPpAeI/0FdA1QNYYNVA/3wmwEYVgwMAAHE8uPHH5BqoD1//gJJLADoJKDS378Z//wFhhJAALF8A3rizz8uTmYg788fJkj4QOKREQyYxSWBhjEC/fcXZANAALF8+/anbcHlHz9+ffvx58uPX9KckkCn/gby/wLd8uvHjx96k+cD1UGiGQgAAgwA7q17ZpsMdUQAAAAASUVORK5CYII=" alt="Français" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li class="lang-item lang-item-116 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-en"><a href="https://www.fernblick.co.th/360-walkthrough-demo/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" alt="English" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li class="lang-item lang-item-152 lang-item-de no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-de"><a href="https://www.fernblick.co.th/de/home-3/" hreflang="de-DE" lang="de-DE"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGzSURBVHjaYvTxcWb4+53h3z8GZpZff/79+v3n/7/fDAz/GHAAgABi+f37e3FxOZD1Dwz+/v3z9y+E/AMFv3//+Qumfv9et241QACxMDExAVWfOHkJJAEW/gUEP0EQDn78+AHE/gFOQJUAAcQiy8Ag8O+fLFj1n1+/QDp+/gQioK7fP378+vkDqOH39x9A/RJ/gE5lAAhAYhzcAACCQBDkgRXRjP034R0IaDTZTFZn0DItot37S94KLOINerEcI7aKHAHE8v/3r/9//zIA1f36/R+o4tevf1ANYNVA9P07RD9IJQMDQACxADHD3z8Ig4GMHz+AqqHagKp//fwLVA0U//v7LwMDQACx/LZiYFD7/5/53/+///79BqK/EMZ/UPACSYa/v/8DyX9A0oTxx2EGgABi+a/H8F/m339BoCoQ+g8kgRaCQvgPJJiBYmAuw39hxn+uDAABxMLwi+E/0PusRkwMvxhBGoDkH4b/v/+D2EDyz///QB1/QLb8+sP0lQEggFh+vGXYM2/SP6A2Zoaf30Ex/J+PgekHwz9gQDAz/P0FYrAyMfz7wcDAzPDtFwNAgAEAd3SIyRitX1gAAAAASUVORK5CYII=" alt="Deutsch" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li class="lang-item lang-item-162 lang-item-es no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1960-es"><a href="https://www.fernblick.co.th/es/home-2/" hreflang="es-ES" lang="es-ES"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFnSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f0NIKPoFJH/9//ULyGaUlQXaABBALAx/Gf4zAt31F4i+ffj3/cN/XrFfzOx//v///f//LzACM/79ZmD8/e8TA0AAMYHdDVT958vXP38nMDB0s3x94/Tj5y+YahhiAKLfQKUAAcQEdtJfoDHMF2L+vPzDmFXLelf551tGFOOhev4A/QgQQExgHwAd8IdFT/Wz6j+GhlpmXSOW/2z///8Eq/sJ18Dw/zdQA0AAMQExxJjjdy9x2/76EfLz4MXdP/i+wsyGkkA3Aw3984cBIIAYfzIwMKel/bt3jwEaLNAwgZIQxp/fDH/+MqqovL14ESCAWICeZvr9h0FSEhSgwBgAygFDEMT+wwAhgQgc4kAEVAwQQIxfUSMSTxxDAECAAQAJWke8v4u1tAAAAABJRU5ErkJggg==" alt="Español" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+</ul></div>			
+				
+		</div>
+	</div>
+</div>
+
+		
+			
+					<div id="notitlebar"></div>
+		
+
+
+<div id="page-wrap" class="container" >
+
+	<div id="content" class="sixteen columns">
+	
+				<div data-elementor-type="wp-page" data-elementor-id="607" class="elementor elementor-607" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2944997c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2944997c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<section class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1742eed3" data-id="1742eed3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-590ead1c elementor-widget elementor-widget-shortcode" data-id="590ead1c" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><iframe height="550px" width="100%" allowfullscreen="true" 
+src="https://www.theasys.io/viewer/TsFVdTNfYm6kXKbcvJCwbFFme2RmR0/"> </iframe></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</section>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+		
+		
+			</div> <!-- end content -->
+
+	
+</div> <!-- end page-wrap -->
+	
+		
+			
+		<footer id="footer">
+			<div class="container">
+				<div class="four columns"><div id="media_image-2" class="widget widget_media_image"><a href="/"><img width="240" height="99" src="https://www.fernblick.co.th/wp-content/uploads/Fernblick19-logo-website-240px.png" class="image wp-image-312  attachment-full size-full" alt="Fernblick Luxury Villa" loading="lazy" style="max-width: 100%; height: auto;" /></a></div><div id="text-8" class="widget widget_text"><h3>Fernblick Luxury Villa</h3>			<div class="textwidget"><p><em>Contemporary design, built for comfort and rejuvenation, amongst the natural beauty of the island.</em></p>
+<p><strong>Fern Blick Definition:  </strong>a German word meaning distant view. And the views from this magnificent property look out not only over the Gulf of Thailand toward Ang Thong Marine Park, but also to the unspoiled mountain jungles of Koh Phangan.</p>
+</div>
+		</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><ul>
+<li class="addr"><span class="adr_detl">1-13/14 Moo 5</span></li>
+<li><span class="adr_detl">Koh Phangan</span></li>
+<li><span class="adr_detl">84280 Surat Thani</span></li>
+<li><span class="adr_detl">THAILAND</span></li>
+<li class="email"><span class="adr_detl">info@fernblick.co.th</span></li>
+<li class="phone"><span class="adr_detl">+66 60 003 5195</span></li>
+</ul>
+</div>
+		</div></div>
+								<div class="four columns"><div id="text-6" class="widget widget_text"><h3>Discover Koh Phangan</h3>			<div class="textwidget"><p><span style="font-weight: 400;">Nestled in the forests of the tropical island of Koh Phangan, you’ll find the stylish Fernblick Villa with stunning panoramic views from every room, luxury in every detail, and a butler on-site for your ultimate pampering.</span></p>
+<p><span style="font-weight: 400;">Escape, refresh, and rejuvenate as our guest in a state of the art villa in the Gulf of Thailand. Koh Phangan may be world famous for its Full Moon Parties, but there’s so much more to this mostly untouched paradise.</span></p>
+<p><span style="font-weight: 400;">From pristine beaches, gorgeous hiking trails through lush untouched jungles, water sports, world class diving, high-end spas, and many great restaurants, you won’t run out of ways to spend your days here. And of course, lounging by the private infinity pool is always a great option, too.</span></p>
+<p><span style="font-weight: 400;">Book your stay today at Fernblick with family and friends for what is certain to be an unforgettable Thailand holiday! </span></p>
+</div>
+		</div></div>
+												<div class="four columns"><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-2menu-container"><ul id="menu-footer-2menu" class="menu"><li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="https://www.fernblick.co.th/contact-us/">Contact us</a></li>
+</ul></div></div><div id="nav_menu-2" class="widget widget_nav_menu"><h3>Things to Do on Koh Phangan</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-420"><a href="https://www.fernblick.co.th/koh-phangan-info/beaches/">Beaches</a></li>
+<li id="menu-item-423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423"><a href="https://www.fernblick.co.th/koh-phangan-info/things-to-do/hiking/">Hiking</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-428"><a href="https://www.fernblick.co.th/koh-phangan-info/things-to-do/street-markets/">Street Markets</a></li>
+<li id="menu-item-510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-510"><a href="https://www.fernblick.co.th/koh-phangan-info/things-to-do/water-sports/">Water Sports</a></li>
+<li id="menu-item-429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-429"><a href="https://www.fernblick.co.th/koh-phangan-info/things-to-do/waterfalls/">Waterfalls</a></li>
+<li id="menu-item-632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-632"><a href="https://www.fernblick.co.th/koh-phangan-info/restaurants/">Dining</a></li>
+</ul></div></div></div>
+												<div class="four columns"><div id="media_image-3" class="widget widget_media_image"><a href="https://www.airbnb.ca/rooms/39342918"><img width="300" height="178" src="https://www.fernblick.co.th/wp-content/uploads/airbnb-logo-300x178.png" class="image wp-image-100  attachment-medium size-medium" alt="AirBnB" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.fernblick.co.th/wp-content/uploads/airbnb-logo-300x178.png 300w, https://www.fernblick.co.th/wp-content/uploads/airbnb-logo-768x455.png 768w, https://www.fernblick.co.th/wp-content/uploads/airbnb-logo-1024x607.png 1024w, https://www.fernblick.co.th/wp-content/uploads/airbnb-logo.png 2024w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>	
+							</div>
+		</footer>
+		
+		<div id="copyright" class="clearfix">
+		<div class="container">
+			
+			<div class="sixteen columns">
+
+				<div class="copyright-text copyright-col1">
+											&copy; Fernblick 2019 - 2020. All rights Reserved. | <a href="/privacy">Privacy and Data Protection</a> | <a href="/terms-of-use">Terms and Conditions</a> | <a href="/contact-us">Contact Us</a>									</div>
+				
+				<div class="copyright-col2">
+											
+<div class="social-icons clearfix">
+	<ul>
+																																															</ul>
+</div>									</div>
+
+			</div>
+			
+		</div>
+	</div><!-- end copyright -->
+			
+	</div><!-- end wrapall / boxed -->
+	
+		<div id="back-to-top"><a href="#"><i class="fa fa-chevron-up"></i></a></div>
+		
+	<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">var cffajaxurl = "https://www.fernblick.co.th/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.fernblick.co.th\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/vendors/canjs/can.custom.min.js?ver=3.8.2' id='mphb-canjs-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/vendors/kbwood/datepick/jquery.plugin.min.js?ver=3.8.2' id='mphb-kbwood-plugin-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/vendors/kbwood/datepick/jquery.datepick.min.js?ver=3.8.2' id='mphb-kbwood-datepick-js'></script>
+<script type='text/javascript' id='mphb-js-extra'>
+/* <![CDATA[ */
+var MPHB = {"_data":{"settings":{"currency":{"code":"THB","price_format":"<span class=\"mphb-currency\">&#3647;<\/span>%s","decimals":2,"decimal_separator":".","thousand_separator":","},"siteName":"Fernblick Luxury Villa","currentLanguage":"en","firstDay":1,"numberOfMonthCalendar":2,"numberOfMonthDatepicker":2,"dateFormat":"dd\/mm\/yyyy","dateTransferFormat":"yyyy-mm-dd","useBilling":false,"useCoupons":false,"datepickerClass":"mphb-datepicker-light-blue","countryRequired":false,"fullAddressRequired":false,"isDirectBooking":true},"today":"2021-07-17","ajaxUrl":"https:\/\/www.fernblick.co.th\/wp-admin\/admin-ajax.php","nonces":{"mphb_create_stripe_payment_intent":"8fe98190db","mphb_update_checkout_info":"1311c74651","mphb_update_rate_prices":"37e2570e85","mphb_get_billing_fields":"3dd98dcce6","mphb_apply_coupon":"a141861df4","mphb_get_free_accommodations_amount":"e6ca6e878f"},"roomTypesData":[],"translations":{"errorHasOccured":"An error has occurred, please try again later.","booked":"Booked","pending":"Pending","available":"Available","notAvailable":"Not available","notStayIn":"Not stay-in","notCheckIn":"Not check-in","notCheckOut":"Not check-out","past":"Day in the past","checkInDate":"Check-in date","lessThanMinDaysStay":"Less than min days stay","moreThanMaxDaysStay":"More than max days stay","laterThanMaxDate":"Later than max date for current check-in date","rules":"Rules:","tokenizationFailure":"Tokenisation failed: %s","roomsAddedToReservation_singular":"%1$d &times; &ldquo;%2$s&rdquo; has been added to your reservation.","roomsAddedToReservation_plural":"%1$d &times; &ldquo;%2$s&rdquo; have been added to your reservation.","countRoomsSelected_singular":"%s accommodation selected.","countRoomsSelected_plural":"%s accommodations selected.","emptyCouponCode":"Coupon code is empty.","checkInNotValid":"Check-in date is not valid.","checkOutNotValid":"Check-out date is not valid."},"page":{"isCheckoutPage":false,"isSingleRoomTypePage":false,"isSearchResultsPage":false,"isCreateBookingPage":false},"rules":{"reservationRules":{"check_in_days":[{"season_ids":[0],"room_type_ids":[0],"check_in_days":[0,1,2,3,4,5,6]}],"check_out_days":[{"season_ids":[0],"room_type_ids":[0],"check_out_days":[0,1,2,3,4,5,6]}],"min_stay_length":[{"season_ids":[0],"room_type_ids":[0],"min_stay_length":3},{"season_ids":[0],"room_type_ids":[0],"min_stay_length":1}],"max_stay_length":[{"season_ids":[0],"room_type_ids":[0],"max_stay_length":0}]},"dates":[],"blockedTypes":[]},"gateways":[],"seasons":{"748":{"start_date":"2021-01-05","end_date":"2021-04-06","allowed_days":[0,1,2,3,4,5,6]},"747":{"start_date":"2020-12-19","end_date":"2021-01-04","allowed_days":[0,1,2,3,4,5,6]},"746":{"start_date":"2020-04-06","end_date":"2020-09-30","allowed_days":[0,1,2,3,4,5,6]},"745":{"start_date":"2020-10-01","end_date":"2020-12-18","allowed_days":[0,1,2,3,4,5,6]}},"roomTypeId":0,"allRoomTypeIds":[731]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/motopress-hotel-booking/assets/js/public/mphb.min.js?ver=3.8.2' id='mphb-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/jquery.easing.min.js' id='minti-easing-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/waypoints.min.js' id='waypoints-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/waypoints-sticky.min.js' id='minti-waypoints-sticky-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/prettyPhoto.js' id='minti-prettyphoto-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/isotope.pkgd.min.js' id='minti-isotope-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/functions.js' id='minti-functions-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/flexslider.min.js' id='minti-flexslider-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/themes/unicon/framework/js/smoothscroll.js' id='minti-smoothscroll-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-includes/js/comment-reply.min.js?ver=5.7.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=2.19.1' id='cffscripts-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.5' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.5' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.9.2' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.fernblick.co.th\/wp-admin\/admin-ajax.php","nonce":"2d42d090af","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.2' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.5' id='share-link-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1365,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1620,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"direction":"min","is_enabled":false}}},"version":"3.2.5","is_static":false,"experimentalFeatures":[],"urls":{"assets":"https:\/\/www.fernblick.co.th\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":607,"title":"360%20Walkthrough%20demo%20-%20Fernblick%20Luxury%20Villa","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.5' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://www.fernblick.co.th/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.5' id='preloaded-modules-js'></script>
+<script type='text/javascript'>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+</script>
+
+	<script type="text/javascript">
+	jQuery(document).ready(function($){
+		"use strict";
+	    
+		/* PrettyPhoto Options */
+		var lightboxArgs = {			
+						animation_speed: 'fast',
+						overlay_gallery: false,
+			autoplay_slideshow: false,
+						slideshow: 5000,
+									opacity: 0.8,
+						show_title: false,
+			social_tools: "",			deeplinking: false,
+			allow_resize: true,
+			allow_expand: false,
+			counter_separator_label: '/',
+			default_width: 1160,
+			default_height: 653
+		};
+		
+				/* Automatic Lightbox */
+		$('a[href$=jpg], a[href$=JPG], a[href$=jpeg], a[href$=JPEG], a[href$=png], a[href$=gif], a[href$=bmp]:has(img)').prettyPhoto(lightboxArgs);
+					
+		/* General Lightbox */
+		$('a[class^="prettyPhoto"], a[rel^="prettyPhoto"], .prettyPhoto').prettyPhoto(lightboxArgs);
+
+		/* WooCommerce Lightbox */
+		$("a[data-rel^='prettyPhoto']").prettyPhoto({
+			hook: 'data-rel',
+			social_tools: false,
+			deeplinking: false,
+			overlay_gallery: false,
+			opacity: 0.8,
+			allow_expand: false, /* Allow the user to expand a resized image. true/false */
+			show_title: false
+		});
+
+		
+	    
+		/* Transparent Header */
+	    function transparentHeader() {
+			if ($(document).scrollTop() >= 60) {
+				$('#header.header-v1').removeClass('header-transparent');
+			}
+			else {
+				$('#header.header-v1.stuck').addClass('header-transparent');
+			}
+		}
+			
+		/* Sticky Header */
+		if (/Android|BlackBerry|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent) === false) {
+
+			var $stickyHeaders = $('#header.header-v1, #header.header-v3 .navigation-wrap, #header.header-v4 .navigation-wrap');
+			$stickyHeaders.waypoint('sticky');
+			
+			$(window).resize(function() {
+				$stickyHeaders.waypoint('unsticky');
+				if ($(window).width() < 944) {
+					$stickyHeaders.waypoint('unsticky');
+				}
+				else {
+					$stickyHeaders.waypoint('sticky');
+				}
+			});
+			
+			if ($("body").hasClass("header-is-transparent")) {
+				$(document).scroll(function() { transparentHeader(); });
+				transparentHeader();
+		    }
+
+		}			
+	    
+	    
+	    	
+	    /* Fill rest of page */
+	    			    			$('body').css({'background-color' : '#110301' });
+	    			    
+	});
+	</script>
+	
+</body>
+
+</html>
+<!-- Page generated by LiteSpeed Cache 3.6.4 on 2021-07-17 21:22:29 -->
